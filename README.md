@@ -23,6 +23,7 @@ SINSUNHAJO
 ### 3-1. 개발환경
 
 ### 3-2. 진행일정
+<img src=""
 
 # 4. Project 설계
 
