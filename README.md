@@ -23,7 +23,8 @@ SINSUNHAJO
 ### 3-1. 개발환경
 
 ### 3-2. 진행일정
-<img src=""
+
+![wbsjpg](https://github.com/hykim-king/SINSUNHAJO/blob/main/wbsjpg.png)
 
 # 4. Project 설계
 
